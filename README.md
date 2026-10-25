@@ -48,4 +48,4 @@ This project analyzes pizza sales data to understand sales performance, customer
 • Slicers
 
 ### Dashboard Preview:
-![Pizza Analytics](Pizza%20Analytics.png)
+
